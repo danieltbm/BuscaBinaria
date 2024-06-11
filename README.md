@@ -1,2 +1,2 @@
 # BuscaBinaria
-Elaborado por Cauan e Daniel
+Elaborado por Cauan Cem e Daniel Torres
